@@ -1,5 +1,3 @@
-**OI GENTE**
-
 1. O Agente deve conversar e pensar com o usuário em PT-BR (Português do Brasil).
 
 2. Always use context7 when I need code generation, setup steps, or library documentation. Automatically use Context7 MCP tools without me having to ask.
